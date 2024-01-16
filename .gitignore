@@ -1,0 +1,8 @@
+__pycache__
+event_logs
+log_compactions
+*.bin
+*.meta
+journal1
+journal2
+journal3
